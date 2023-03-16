@@ -1,0 +1,11 @@
+../modules/setup/Src/setup.c:28:6:MCU_SETUP	8	static
+../modules/setup/Src/setup.c:88:6:SystemClock_Config	112	static
+../modules/setup/Src/setup.c:135:6:MX_ADC_Init	24	static
+../modules/setup/Src/setup.c:244:13:MX_CAN_Init	8	static
+../modules/setup/Src/setup.c:305:13:MX_I2C1_Init	8	static
+../modules/setup/Src/setup.c:342:13:MX_SPI1_Init	8	static
+../modules/setup/Src/setup.c:370:13:MX_TIM1_Init	96	static
+../modules/setup/Src/setup.c:431:6:MX_TIM7_Init	16	static
+../modules/setup/Src/setup.c:458:13:MX_USART1_UART_Init	8	static
+../modules/setup/Src/setup.c:479:13:MX_DMA_Init	16	static
+../modules/setup/Src/setup.c:497:13:MX_GPIO_Init	48	static

@@ -1,0 +1,5 @@
+../modules/Common/pid.c:20:1:PID_Init	32	static
+../modules/Common/pid.c:43:1:PID_ResetAll	32	static
+../modules/Common/pid.c:61:1:PID_SetCoefs	40	static
+../modules/Common/pid.c:82:1:PID_SetDelayDepth	32	static
+../modules/Common/pid.c:98:1:PID_Compute	48	static

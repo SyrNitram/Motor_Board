@@ -1,0 +1,9 @@
+../modules/Console/console.c:104:1:CONSOLE_Init	32	static
+../modules/Console/console.c:150:1:CONSOLE	16	static
+../modules/Console/console.c:170:1:CONSOLE_PrintLog	28	static
+../modules/Console/console.c:193:1:CONSOLE_IsBusy	8	static
+../modules/Console/console.c:199:1:CONSOLE_Flush	24	static
+../modules/Console/console.c:239:1:CONSOLE_UART_TxCpltCallback	16	static
+../modules/Console/console.c:264:1:CONSOLE_UART_RxCpltCallback	8	static
+../modules/Console/console.c:280:1:console_AppendMessageToList	24	static
+../modules/Console/console.c:304:1:console_ProcessOutput	24	static

@@ -1,0 +1,4 @@
+../modules/stander/Src/stander.c:37:1:stander_Update_Eos	32	static
+../modules/stander/Src/stander.c:52:1:Get_Sensors_Value	24	static
+../modules/stander/Src/stander.c:63:1:Callback_HomingProcess	32	static
+../modules/stander/Src/stander.c:110:1:HOMING_PROCESS_monitoring	32	static

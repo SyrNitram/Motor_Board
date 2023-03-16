@@ -1,0 +1,9 @@
+../modules/platform/Src/sub_main_bis.c:88:1:Compute_Average_Force	32	static
+../modules/platform/Src/sub_main_bis.c:111:1:Compute_Force	16	static
+../modules/platform/Src/sub_main_bis.c:123:1:Compute_Average_Current	32	static
+../modules/platform/Src/sub_main_bis.c:168:1:Select_phase_current	16	static
+../modules/platform/Src/sub_main_bis.c:185:1:TaskCallback_MotorCtrl	16	static
+../modules/platform/Src/sub_main_bis.c:217:1:TaskCallback_Current	16	static
+../modules/platform/Src/sub_main_bis.c:266:1:TaskCallback_Com_Mgt	16	static
+../modules/platform/Src/sub_main_bis.c:290:1:TaskCallback_ADC	16	static
+../modules/platform/Src/sub_main_bis.c:314:1:TaskCallback_Calib	40	static

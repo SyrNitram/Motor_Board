@@ -1,0 +1,8 @@
+../modules/Communication/can_lib_TX.c:41:1:Set_TxHeader	24	static
+../modules/Communication/can_lib_TX.c:63:1:Set_Payload_TPDO1	32	static
+../modules/Communication/can_lib_TX.c:94:1:Set_Payload_TPDO2	32	static
+../modules/Communication/can_lib_TX.c:150:1:SWAP_16BITS	16	static
+../modules/Communication/can_lib_TX.c:156:1:SWAP_32BITS	16	static
+../modules/Communication/can_lib_TX.c:166:1:CAN_TPDO1_MSG	32	static
+../modules/Communication/can_lib_TX.c:217:1:CAN_TPDO2_MSG	32	static
+../modules/Communication/can_lib_TX.c:269:1:CAN_Rep_Version	32	static

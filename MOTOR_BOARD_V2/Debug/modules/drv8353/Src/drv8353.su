@@ -1,0 +1,11 @@
+../modules/drv8353/Src/drv8353.c:134:1:DRV_ApplyPWM	32	static
+../modules/drv8353/Src/drv8353.c:153:1:DRV_SetPWM	16	static
+../modules/drv8353/Src/drv8353.c:177:1:DRV_SetMode	24	static
+../modules/drv8353/Src/drv8353.c:218:1:DRV_UpdateHalls	24	static
+../modules/drv8353/Src/drv8353.c:256:1:DRV_FaultResolution	8	static
+../modules/drv8353/Src/drv8353.c:274:1:drv_sleep	8	static
+../modules/drv8353/Src/drv8353.c:289:1:drv_wake	8	static
+../modules/drv8353/Src/drv8353.c:308:1:drv_configuration	24	static
+../modules/drv8353/Src/drv8353.c:332:1:drv_SPI_Transmit	32	static
+../modules/drv8353/Src/drv8353.c:349:1:drv_SPI_TransmitReceive	40	static
+../modules/drv8353/Src/drv8353.c:365:1:drv_setAllLow	8	static

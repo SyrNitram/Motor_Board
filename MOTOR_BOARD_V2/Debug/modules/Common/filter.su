@@ -1,0 +1,6 @@
+../modules/Common/filter.c:20:1:FILTER_SlidingAverageInt_Init	24	static
+../modules/Common/filter.c:34:1:FILTER_SlidingAverageFloat_Init	24	static
+../modules/Common/filter.c:48:1:FILTER_1stOrder_Init	32	static
+../modules/Common/filter.c:63:1:FILTER_SlidingAverageInt_Compute	32	static
+../modules/Common/filter.c:78:1:FILTER_SlidingAverageFloat_Compute	32	static
+../modules/Common/filter.c:93:1:FILTER_1stOrder_Compute	48	static

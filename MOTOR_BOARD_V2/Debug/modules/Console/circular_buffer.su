@@ -1,0 +1,5 @@
+../modules/Console/circular_buffer.c:52:1:CIRCULAR_BUFFER_InitCircularBuffer	24	static
+../modules/Console/circular_buffer.c:74:1:CIRCULAR_BUFFER_Read	32	static
+../modules/Console/circular_buffer.c:105:1:CIRCULAR_BUFFER_Write	24	static
+../modules/Console/circular_buffer.c:157:1:circular_buffer_ComputeNextIndex	24	static
+../modules/Console/circular_buffer.c:175:1:circular_buffer_ComputeOffset	24	static

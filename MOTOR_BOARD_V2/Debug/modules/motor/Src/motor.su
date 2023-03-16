@@ -1,0 +1,11 @@
+../modules/motor/Src/motor.c:62:9:HALL_Value_to_State	32	static
+../modules/motor/Src/motor.c:81:9:HALL_State_to_Value	32	static
+../modules/motor/Src/motor.c:106:1:Motor_UpdatePosition	24	static
+../modules/motor/Src/motor.c:184:1:Turn_On_Motor	32	static
+../modules/motor/Src/motor.c:206:1:Turn_Off_Motor	32	static
+../modules/motor/Src/motor.c:227:1:Set_ControlType	32	static
+../modules/motor/Src/motor.c:253:1:Set_setpoint	24	static
+../modules/motor/Src/motor.c:301:1:Set_Target_PWM	24	static
+../modules/motor/Src/motor.c:319:1:Get_Target_PWM	8	static
+../modules/motor/Src/motor.c:329:1:Motor_ctrl	40	static
+../modules/motor/Src/motor.c:407:1:reset_all_PID	32	static

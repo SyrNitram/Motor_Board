@@ -1,0 +1,10 @@
+../modules/Scheduler/scheduler.c:66:1:SCHEDULER_Init	16	static
+../modules/Scheduler/scheduler.c:81:1:SCHEDULER_Deinit	8	static
+../modules/Scheduler/scheduler.c:94:1:SCHEDULER_MonitoringLoop	16	static
+../modules/Scheduler/scheduler.c:138:1:SCHEDULER_Task_Register	16	static
+../modules/Scheduler/scheduler.c:157:1:SCHEDULER_Task_Unregister	16	static
+../modules/Scheduler/scheduler.c:173:1:SCHEDULER_Task_Start	16	static
+../modules/Scheduler/scheduler.c:196:1:SCHEDULER_Task_Stop	16	static
+../modules/Scheduler/scheduler.c:219:1:SCHEDULER_Task_Reinit	16	static
+../modules/Scheduler/scheduler.c:238:1:SCHEDULER_Task_Restart	16	static
+../modules/Scheduler/scheduler.c:257:1:SCHEDULER_Task_GetStatus	16	static
